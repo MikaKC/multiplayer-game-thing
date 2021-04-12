@@ -1,0 +1,16 @@
+{
+"companyName": "MKSUSHI",
+"productName": "Game Multiplayer Test",
+"productVersion": "0.1f",
+"dataUrl": "HTML BUILD.data.unityweb",
+"wasmCodeUrl": "HTML BUILD.wasm.code.unityweb",
+"wasmFrameworkUrl": "HTML BUILD.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
